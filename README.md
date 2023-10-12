@@ -1,16 +1,6 @@
-# app
+# 학근마켓 
 
-A new Flutter project.
+당근마켓 클론코딩 Repository
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+학교내 중고거래 
+내 학교를 검색하고 시작해보세요
