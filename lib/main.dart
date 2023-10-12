@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:app/views/intro/Intro.dart';
+import 'package:app/views/board/BoardScreen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +18,8 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.lightGreen),
         useMaterial3: true,
       ),
-      home: const Intro(),
+      home: const Board(),
+      // home: const Intro(),
     );
   }
 }
